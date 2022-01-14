@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.stopwatch {
+    margin-top: 170px;
+    margin-left: 345px;
+    width: 310px;
+    border: 2px solid #00BF;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,246,253,0.8869922969187675) 70%, rgba(249,252,69,0.8169642857142857) 100%);
+    padding: 15px;
+}
+/*span {*/
+/*    font-size: 70px;*/
+/*}*/
+button {
+    width: 100px;
+    height: 100px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+
+
+
+.answer {
+    display: none;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    background-color: #ffcf70;
+    border-radius: 0.2rem;
+}
+
+.helper-answer {
+    cursor: pointer;
+}
+
+.interaction {
+    display: inline;
+}
