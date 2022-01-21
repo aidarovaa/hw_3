@@ -1,0 +1,21 @@
+tbody {
+    border-style: solid;
+}
+
+th {
+    border-color: #4a8edc;
+    border-style: solid;
+    padding: 5px;
+}
+
+td {
+    border-color: #4a8edc;
+    border-style: solid;
+    padding: 5px;
+}
+
+img {
+    border-color: #4a8edc;
+    border-style: solid;
+
+}
